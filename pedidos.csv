@@ -1,0 +1,7 @@
+nome,endereco,numero_pedido,status_entrega,data_entrega
+Ana,"Rua A, 123",101,entregue,2025-11-20
+Carlos,"Av. Central, 456",102,atrasado,2025-11-25
+Mariana,"Rua das Flores, 789",103,entregue,2025-11-28
+João,"Rua B, 321",104,atrasado,2025-11-15
+Fernanda,"Av. Brasil, 654",105,entregue,2025-11-27
+Pedro,"Rua C, 987",106,atrasado,2025-11-10
