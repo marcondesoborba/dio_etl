@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de **README.md** para documentar o projetinho ETL de pedidos entregues:  
-
----
-
 # 📦 ETL de Pedidos Entregues
 
 Este projeto demonstra um fluxo **ETL (Extract, Transform, Load)** usando **Python** e a biblioteca **pandas**, simulando um modelo de entrega de pedidos.  
